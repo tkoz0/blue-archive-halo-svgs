@@ -1,0 +1,17 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="0" cy="0" r="30" stroke="aqua" stroke-width="1" fill="none" />
+    <circle cx="0" cy="0" r="36" stroke="aqua" stroke-width="1" fill="none" />
+    <path d="
+M 60 -5
+l -8 1 v 8 l 8 1 A 60 60 0 0 1 5 60
+l -1 -8 h -8 l -1 8 A 60 60 0 0 1 -60 5
+l 8 -1 v -8 l -8 -1 A 60 60 0 0 1 -5 -60
+l 1 8 h 8 l 1 -8 A 60 60 0 0 1 60 -5
+        " stroke="aqua" stroke-width="1" fill="none" />
+    <path d="
+M 70 -5 l 12 1 v 8 l -12 1 A 70 70 0 0 1 5 70
+l -1 12 h -8 l -1 -12 A 70 70 0 0 1 -70 5
+l -12 -1 v -8 l 12 -1 A 70 70 0 0 1 -5 -70
+l 1 -12 h 8 l 1 12 A 70 70 0 0 1 70 -5
+        " stroke="aqua" stroke-width="1" fill="none" />
+</svg>

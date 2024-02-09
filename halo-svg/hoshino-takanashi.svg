@@ -1,0 +1,30 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="0" cy="0" r="24" stroke="pink" stroke-width="1" fill="none" />
+    <circle cx="0" cy="0" r="30" stroke="pink" stroke-width="1" fill="none" />
+    <circle cx="0" cy="0" r="43" stroke="pink" stroke-width="1" fill="none" />
+    <circle cx="0" cy="0" r="46" stroke="pink" stroke-width="1" fill="none" />
+    <!--<circle cx="0" cy="0" r="61" stroke="red" stroke-width="1" fill="none" />-->
+    <!--<circle cx="0" cy="0" r="67" stroke="red" stroke-width="1" fill="none" />-->
+    <path d="
+M -60 -11 A 61 61 0 0 1 60 -11
+h 12 a 3.5 3.5 0 0 0 0 -7 h -7.5
+A 67 67 0 0 0 -64.5 -18
+h -7.5 a 3.5 3.5 0 0 0 0 7 h 12
+        " stroke="pink" stroke-width="1" fill="none" />
+    <path d="
+M -60 11 A 61 61 0 0 0 60 11
+h 12 a 3.5 3.5 0 0 1 0 7 h -7.5
+A 67 67 0 0 1 -64.5 18
+h -7.5 a 3.5 3.5 0 0 1 0 -7 h 12
+        " stroke="pink" stroke-width="1" fill="none" />
+    <path d="
+M 58 0 c 3 -3 12 -3 15 -3
+h 15 a 8 3 0 0 1 0 6 h -15
+c -3 0 -12 0 -15 -3
+        " stroke="pink" stroke-width="1" fill="none" />
+    <path d="
+M -58 0 c -3 -3 -12 -3 -15 -3
+h -15 a 8 3 0 0 0 0 6 h 15
+c 3 0 12 0 15 -3
+        " stroke="pink" stroke-width="1" fill="none" />
+</svg>
